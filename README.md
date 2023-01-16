@@ -11,11 +11,11 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-## GitHub Status
+<!-- ## GitHub Status
 <p aligh="left">
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satomixx&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=satomixx&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
-</p>
+</p> -->
 
 ### GitHub Streak
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=satomix&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
